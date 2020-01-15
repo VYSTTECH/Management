@@ -13,4 +13,5 @@ Khon: chatbox \
 Tran Thanh: intro to machine learning \
 Bui Thanh: \
 Tai: \
-Huy: 
+Huy: \
+Khoa:
