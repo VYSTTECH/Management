@@ -8,10 +8,15 @@ The content:
 Each person will presents a topic of what they have learnt. 
 30 minutes for a presentation and Q&A
 
-## Proposed content:
-Khon: chatbox \
-Tran Thanh: intro to machine learning \
-Bui Thanh: \
+## January 31st
+Khon: Tourism information AI conversation \
+Tran Thanh: Project Template + Python Template \
+Bui Thanh: A method of evaluation of keyword extraction model \
 Tai: \
 Huy: \
-Khoa:
+Khoa: Experiment on GaP buffer layer of solar system 
+
+## Ferbuary 14th 
+Khon: \
+Tran Thanh: \ 
+Khon: \
