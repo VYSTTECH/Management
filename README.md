@@ -19,4 +19,4 @@ Khoa: Experiment on GaP buffer layer of solar system
 ## Ferbuary 14th 
 Khon: \
 Tran Thanh: \ 
-Khon: \
+Khoa: \
